@@ -1,5 +1,4 @@
 Template.body.rendered = function () {
-    html5.addElements('todo')
 
     riot.mount('todo', {
 	title: 'I want to behave!',
