@@ -52,3 +52,7 @@ li {
 label {
   cursor: pointer;
 }
+
+input.delete {
+  float: right;
+}
